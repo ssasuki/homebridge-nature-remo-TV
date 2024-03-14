@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-nature-remo-tv",
+  "displayName": "Homebridge Nature Remo TV",
+  "version": "1.0.0",
+  "description": "Homebridge Plugin to turn TV on and off using Nature Remo",
+  "author": "Sasuki Sho",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssasuki/homebridge-nature-remo-tv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssasuki/homebridge-nature-remo-tv/issues"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "apple",
+    "homekit",
+    "nature",
+    "remo",
+    "TV"
+  ],
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=0.4.8"
+  },
+  "dependencies": {}
+}
